@@ -22,7 +22,7 @@ body {
 
 .card {
   background-color: white;
-  width: 70%;
+  width: 85%;
   border-radius: 1.2rem;
   display: grid;
   grid-template-columns: repeat(2, 1fr);

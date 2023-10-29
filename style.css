@@ -39,7 +39,7 @@ body {
 .box {
   position: absolute;
   top: 40%;
-  left: -10%;
+  left: -8%;
 }
 
 .faq__container {
@@ -104,6 +104,9 @@ body {
   .card {
     min-width: 100%;
   }
+  .box {
+    left: -10%;
+  }
   .faq__container h1 {
     font-size: 1.8rem;
   }
@@ -134,6 +137,8 @@ body {
   }
   .box {
     width: 20%;
+    left: -9.5%;
+    top: 43%;
   }
 }
 
@@ -164,7 +169,7 @@ body {
   text-align: center;
  }
  .box {
-  top: 42%;
+  top: 44%;
   left: 3rem;
   width: 25%;
  }
@@ -177,5 +182,9 @@ body {
   }
   .hero__image {
     background-size: 75%;
+  }
+  .box {
+    left: 2.5rem;
+    top: 47%;
   }
 }
